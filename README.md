@@ -15,8 +15,7 @@ where `<search-type>` might be one of the following:
   <li>A*2</li> 
 </ul>
 
-A*1 uses Manhattan Distance.
-A*2 uses total manhattan distance to all dirts, so its the sum of manhattan distance between cleaner and every dirt
+*A\*1 uses Manhattan Distance.A\*2 uses total manhattan distance to all dirts, so its the sum of manhattan distance between cleaner and every dirt*
 
 `<init-file>` will be a text file gives all details related to the initial environment.
 An example environment can be found in init.txt.

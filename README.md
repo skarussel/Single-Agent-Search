@@ -44,3 +44,12 @@ right. An agent coming from up is transformed to the grid down.</li>
 </ul>
 </ul>
 
+The Environment will be represented as textfile, where
+<ul>
+  <li>x corresponds to obstacles</li>
+  <li>c corresponds to the vacuum-cleaner</li>
+  <li>digits corresponds to the number of dirts in the corresponding grid</li>
+ <li>j corresponds to the jumper
+</ul>
+
+

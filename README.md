@@ -15,7 +15,8 @@ where `<search-type>` might be one of the following:
   <li>A*2</li>
 </ul>
 
-`<init-file>` will be a text file gives all details related to the initial environment
+`<init-file>` will be a text file gives all details related to the initial environment.
+An example environment can be found in init.txt. The Environment will be explained next.
 
 ## Introduction to the Environment:
 

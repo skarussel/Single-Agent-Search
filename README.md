@@ -23,7 +23,7 @@ The output of the programm is:
  <li>the number of expanded nodes
  <li>the action sequence to achieve the goal
  <li>the heuristic function value if the <search-type> is A*2
-<ul>
+</ul>
  
 ## Introduction to the Environment:
 

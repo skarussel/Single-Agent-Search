@@ -5,7 +5,7 @@ The program will be called with python3.9 using:
 
  `python3 main.py <search-type> <init-file>`
 
-where <search-type> might be one of the following:
+where `<search-type>` might be one of the following:
 <ul>
   <li>DFS</li>
   <li>BFS</li>
@@ -15,7 +15,7 @@ where <search-type> might be one of the following:
   <li>A*2</li>
 </ul>
 
-<init-file> will be a text file gives all details related to the initial environment
+`<init-file>` will be a text file gives all details related to the initial environment
 
 ## Introduction to the Environment:
 

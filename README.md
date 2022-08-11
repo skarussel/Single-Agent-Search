@@ -11,13 +11,20 @@ where `<search-type>` might be one of the following:
   <li>BFS</li>
   <li>UCS</li>
   <li>GS</li>
-  <li>A*1</li>
+  <li>A*1</li> 
   <li>A*2</li>
 </ul>
 
 `<init-file>` will be a text file gives all details related to the initial environment.
 An example environment can be found in init.txt.
 
+The output of the programm is:
+<ul>
+ <li>the number of expanded nodes
+ <li>the action sequence to achieve the goal
+ <li>the heuristic function value if the <search-type> is A*2
+<ul>
+ 
 ## Introduction to the Environment:
 
 The environment is as follows:

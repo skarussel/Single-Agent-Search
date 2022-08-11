@@ -16,7 +16,7 @@ where `<search-type>` might be one of the following:
 </ul>
 
 `<init-file>` will be a text file gives all details related to the initial environment.
-An example environment can be found in init.txt. The Environment will be explained next.
+An example environment can be found in init.txt.
 
 ## Introduction to the Environment:
 

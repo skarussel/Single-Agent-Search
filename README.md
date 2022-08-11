@@ -12,8 +12,11 @@ where `<search-type>` might be one of the following:
   <li>UCS</li>
   <li>GS</li>
   <li>A*1</li> 
-  <li>A*2</li>
+  <li>A*2</li> 
 </ul>
+
+A/* 1 uses Manhattan Distance.
+A*/* 2 uses total manhattan distance to all dirts, so its the sum of manhattan distance between cleaner and every dirt
 
 `<init-file>` will be a text file gives all details related to the initial environment.
 An example environment can be found in init.txt.
@@ -50,7 +53,7 @@ right. An agent coming from up is transformed to the grid down.</li>
   <li>Suck: 5</li>
 </ul>
 </ul>
-
+  
 The Environment will be represented as textfile, where
 <ul>
   <li>x corresponds to obstacles</li>
@@ -58,5 +61,4 @@ The Environment will be represented as textfile, where
   <li>digits corresponds to the number of dirts in the corresponding grid</li>
  <li>j corresponds to the jumper
 </ul>
-
-
+  

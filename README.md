@@ -3,7 +3,7 @@
 This repository implements 6 single-agent search algorithms. 
 The program will be called with python3.9 using:
 
- python3 main.py /<search-type> <init-file>
+ `python3 main.py <search-type> <init-file>`
 
 where <search-type> might be one of the following:
 <ul>

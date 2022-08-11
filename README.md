@@ -16,7 +16,7 @@ where `<search-type>` might be one of the following:
 </ul>
 
 `<init-file>` will be a text file gives all details related to the initial environment.
-An example environment can be found in init.txt.
+An example environment can be found in [init.txt](https://github.com/skarussel/Single-Agent-Search/blob/master/init.txt).
 
 The output of the programm is:
 <ul>
@@ -29,7 +29,7 @@ The output of the programm is:
 
 ## Introduction to the Environment:
 
-The environment is as follows:
+The [environment] (https://github.com/skarussel/Single-Agent-Search/blob/master/init.txt) is as follows:
 <ul>
   <li>The environment is NxM grid world</li>
   <li>Each grid in the environment might contain</li>

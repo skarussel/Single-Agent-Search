@@ -29,7 +29,7 @@ The output of the programm is:
 
 ## Introduction to the Environment:
 
-The [environment](https://github.com/skarussel/Single-Agent-Search/blob/master/init.txt) is as follows:
+The [Environment](https://github.com/skarussel/Single-Agent-Search/blob/master/init.txt) is as follows:
 <ul>
   <li>The environment is NxM grid world</li>
   <li>Each grid in the environment might contain</li>
